@@ -1,33 +1,30 @@
 {
   "id": 5,
   "created_at": "2025-01-23T00:00:00Z",
-  "seo_title": "Amazon Video Downloader - Free Download Tool",
-  "seo_description": "Download Prime Video content for offline viewing with subtitles and multiple quality options",
+  "seo_title": "Amazon Video Downloader - Free Content Download Tool",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/amazon-video-downloader",
   "purchase_url": "https://serp.ly/amazon-video-downloader",
   "store_product_id": null,
   "name": "Amazon Video Downloader",
   "tagline": "Download Prime Video content for offline viewing with subtitles and multiple quality options",
-  "featured_image": "images/featured.jpg",
-  "featured_image_gif": "images/featured.gif",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/amazon-video-downloader/assets/images/amazon-video-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/amazon-video-downloader/assets/images/amazon-video-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/amazon-video-downloader",
   "github_repo_tags": [
-    "amazon-video-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "amazon-video-downloader"
   ],
   "github_gist_url": null,
   "features": [
-    "DRM bypass technology",
-    "Multi-language subtitles",
-    "4K quality support",
-    "Series batch download",
-    "Audio track selection",
-    "Chapter preservation"
+    "Stream-to-file conversion",
+    "HD quality downloads",
+    "Batch download support",
+    "Resume interrupted downloads",
+    "No watermarks",
+    "Content extraction"
   ],
   "chrome_web_store_url": null,
-  "description": "Amazon Video Downloader is a powerful tool that helps you download prime video content for offline viewing with subtitles and multiple quality options. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "description": "Amazon Video Downloader is a powerful tool that helps you download content from Amazon Video instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
   "product_video": null,
   "related_videos": null,
   "changelog": null,
@@ -51,17 +48,15 @@
   "status": "live",
   "technologies": [
     "Python",
-    "Widevine",
-    "FFmpeg",
-    "MKVToolNix"
+    "JavaScript",
+    "Node.js",
+    "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/amazon-video-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/amazon-video-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/amazon-video-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Streaming",
-    "Entertainment Tools",
-    "Media Capture"
+    "movies tv shows"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,23 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/amazon-video-downloader",
     "https://devinschumacher.com/amazon-video-downloader",
-    "https://serp.co/products/amazon-video-downloader/reviews/"
+    "https://serp.co/products/amazon-video-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "amazon-video-downloader",
-    "amazon",
-    "video",
-    "downloader",
-    "downloader",
-    "free",
-    "tool"
+    "amazon video downloader"
   ]
 }
