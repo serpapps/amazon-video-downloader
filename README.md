@@ -2,9 +2,9 @@
 
 > Download Prime Video content for offline viewing with subtitles and multiple quality options
 
-![Amazon Video Downloader](https://raw.githubusercontent.com/serpapps/amazon-video-downloader/assets/images/featured.gif)
+![Amazon Video Downloader](https://raw.githubusercontent.com/serpapps/amazon-video-downloader/assets/images/amazon-video-downloader.gif)
 
-Amazon Video Downloader is a powerful tool that helps you download prime video content for offline viewing with subtitles and multiple quality options. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+Amazon Video Downloader is a powerful tool that helps you download content from Amazon Video instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
 ## 🔗 Links
 
@@ -22,12 +22,12 @@ Amazon Video Downloader is a powerful tool that helps you download prime video c
 
 ## Features
 
-- DRM bypass technology
-- Multi-language subtitles
-- 4K quality support
-- Series batch download
-- Audio track selection
-- Chapter preservation
+- Stream-to-file conversion
+- HD quality downloads
+- Batch download support
+- Resume interrupted downloads
+- No watermarks
+- Content extraction
 
 ## Installation Instructions
 
@@ -47,11 +47,17 @@ Amazon Video Downloader is a powerful tool that helps you download prime video c
 ## Technologies
 
 - Python
-- Widevine
-- FFmpeg
-- MKVToolNix
+- JavaScript
+- Node.js
+- Automation
 
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/amazon-video-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+amazon video downloader
+</details>
 
